@@ -1,2 +1,2 @@
 # scratchoff
-Easy scratch off like effect using canvas
+Scratch off like effect using canvas
